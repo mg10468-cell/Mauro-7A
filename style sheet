@@ -6,9 +6,9 @@ body {
 
 /* Style for all paragraphs */
 p {
-    color: darkgreen;
+    color: black ;
     font-size: 16px;
-    font-family: 'Times New Roman', serif;
+    font-family: 'jefferson', serif;
 }
 
 /* Style for the main heading */
